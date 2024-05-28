@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kr4iNgod
 - 👀 I’m interested in becoming a developer
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning
 - 📫 How to reach me - My Profile socials
 
 <!---
